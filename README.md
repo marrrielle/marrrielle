@@ -3,9 +3,8 @@
   <h3>Мой стек:</h3>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="JS"/> <img    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" alt="tc"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" alt="react"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50" alt="redux"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" alt="HTML"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" alt="CSS"/>
   <h3>В процессе изучения:</h3>
-  <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" width="75" alt="next.js"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="75" alt="vue.js"/>
-  <img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" width="75" alt="vue.js"/>
+  <img src="https://seeklogo.com/images/W/webpack-logo-9E66EE203A-seeklogo.com.png" width="75" alt="webpack.js"/>
   <h3>Связаться со мной:</h3>
   <p>gmail - e.marie.job@gmail.com</p>
   <p>telegram - https://t.me/marrrielle</p>
